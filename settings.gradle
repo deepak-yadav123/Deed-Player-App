@@ -1,0 +1,2 @@
+rootProject.name = "Deed Player"
+include ':app'
