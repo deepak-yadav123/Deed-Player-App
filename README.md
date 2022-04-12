@@ -1,5 +1,5 @@
 # Deed-Player-App
-------> Link of RsToDo App || Download From Here
+------> Link of Deed Player App || Download From Here
 
 https://drive.google.com/file/d/1dvC-MrkBhR_LE3A6hz2iLI3buONGOy9g/view?usp=sharing
 
